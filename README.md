@@ -1,6 +1,6 @@
-# Auto-generated README (Round 1)
+# Auto-generated README (Round 2)
 
-**Project brief:** Create a Todo List app that allows adding, deleting, and marking tasks as done. It should store data in localStorage and run on GitHub Pages.
+**Project brief:** add an option to edit the task created
 
 **Attachments:**
 
